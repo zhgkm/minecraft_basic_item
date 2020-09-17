@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " B ",
+        " A ",
+        " C "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:nether_star"
+        },
+        "B":
+        {
+            "item": "mi2:obs_stone"
+        },
+        "C":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mi2:gm_sword",
+        "count": 1
+    }
+}

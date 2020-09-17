@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B B",
+        "BBB",
+        "BBB"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:slime_ball"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mi2:slime_chestplate",
+        "count": 1
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " BA",
+        "BAB",
+        "CB "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        "B":
+        {
+            "item": "mi2:fire_stone"
+        },
+        "C":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mi2:fire_sword_2",
+        "count": 1
+    }
+}

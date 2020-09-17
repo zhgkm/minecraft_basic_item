@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BB ",
+        " A ",
+        " A "
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "mi2:obs_stone"
+        },
+        "A":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mi2:obs_hoe",
+        "count": 1
+    }
+}

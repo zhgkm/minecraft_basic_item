@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "ABA",
+        "ACA",
+        " C "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "mi2:fire_stone"
+        },
+        "B":
+        {
+            "item": "mi2:obs_stone"
+        },
+        "C":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mi2:blood_axe",
+        "count": 1
+    }
+}

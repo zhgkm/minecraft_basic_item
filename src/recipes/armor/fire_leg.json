@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "B B",
+        "B B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "mi2:fire_stone"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mi2:fire_leg",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B B",
+        "B B",
+        "   "
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:slime_ball"
+        }
+    },
+    "result":
+    {
+        "item": "mi2:slime_boots",
+        "count": 1
+    }
+}

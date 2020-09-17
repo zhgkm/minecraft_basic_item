@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " B ",
+        " A ",
+        " C "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        "B":
+        {
+            "item": "mi2:water_stone"
+        },
+        "C":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mi2:ice_sword",
+        "count": 1
+    }
+}
